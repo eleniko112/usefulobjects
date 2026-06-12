@@ -1,0 +1,6 @@
+{
+  "name": "უსარგებლო გამოგონებების მაღაზია",
+  "description": "უსარგებლო და აბსურდული გამოგონებების ექსკლუზიური ონლაინ-მაღაზია, სადაც ყოველი პროდუქტი წარმოდგენილია უმაღლესი ტექნოლოგიური სერიოზულობით.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
